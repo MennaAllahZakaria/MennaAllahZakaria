@@ -19,12 +19,17 @@
 ## <p>  Where to find me? </p>
 
 <p align="center">
- <a href="https://codeforces.com/profile/mennazakaria2003"><img src="icons/codeforces.svg" alt="CodeForces" width="50px" title="codeforces"/></a>
-	<a href="https://leetcode.com/mennazakaria/"><img src="icons/leetcode.svg" alt="LeetCode" width="50px" title="leetcode"/></a>
-	<a href="https://www.hackerrank.com/mennazakaria2003"><img src="icons/hackerrank.svg" alt="HacerRank" width="50px" title="hackerrank"/></a>
-    <a href="https://atcoder.jp/users/menna_zakaria"><img src="icons/atcoder.svg" alt="AtCoder" width="50px" title="atcoder"/></a>     
- <a href="https://www.codechef.com/users/mennazakaria"><img src="icons/codechef.svg" alt="codechef" width="50px" title="codechef"/></a> 
-  
+
+
+
+
+<a href="https://www.hackerrank.com/mennazakaria2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mennazakaria" height="150" width="140" />         </a>
+<a href="https://codeforces.com/profile/mennazakaria2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mennazakaria2003" height="80" width="60" />    </a>
+             <a href="https://leetcode.com/mennazakaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mennazakaria" height="80" width="60" /></a>
+ <a href="https://www.linkedin.com/in/menna-zakaria-476220239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="80" width="60" /></a>        
+
+
+
  
 </p>
 
