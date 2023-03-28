@@ -72,11 +72,6 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="MennaAllahZakaria's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MennaAllahZakaria&custom_title=MennaAllahZakaria's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
   
 <p align="center" class="box" style="text-align:center">
     <p align="center">Don't forget to give this repo a star <img src="https://media.giphy.com/media/k9F6ZtOTEr4UGmt3H2/giphy.gif" width="40px" alt="star" title="star"><br> Thank you for your attention<br> <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" alt="duck" title="duck" width="300px"></p>
