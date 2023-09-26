@@ -20,11 +20,11 @@
 <hr>
 <br>
 
-
+menna-zakaria-476220239
 
 ## 👉 Ho to reach me 
 <p align="center">
-<a href="https://www.linkedin.com/in/menna-zakaria-476220239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="80" width="60"    /      ></a>        <a href="https://www.facebook.com/mennazakaria0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Reham_Atta" height="80" width="60" />         </a>
+<a href="https://www.linkedin.com/in/menna-zakaria-476220239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/menna-zakaria-476220239/" height="80" width="60"    /      ></a>        <a href="https://www.facebook.com/mennazakaria0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Menna Zakaria" height="80" width="60" />         </a>
 <a href="https://twitter.com/MennaZekooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MennaZekooo" height="80" width="60" /></a>
 <a href="https://www.instagram.com/menna_zakaria1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="menna_zakaria1" height="80" width="60" /     ></a>
 
@@ -71,13 +71,13 @@
 
 
 
-🔥 Streak Stats
+🔥 Streak Status
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaAllahZakaria&theme=algolia" alt="MennaAllahZakaria" /></p>
 
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 GitHub Profile Status</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MennaAllahZakaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MennaAllahZakaria&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
