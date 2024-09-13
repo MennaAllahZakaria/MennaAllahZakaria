@@ -22,7 +22,6 @@
 <hr>
 <br>
 
-menna-zakaria-476220239
 
 ## 👉 How to reach me 
 <p align="center">
