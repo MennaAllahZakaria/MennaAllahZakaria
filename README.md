@@ -1,100 +1,135 @@
-	
-<h1 align="center">Hi , I'm Menna Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	
-	
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Back+end+Developer;Competitive+Programmer;"></a>
+<div align="center">
+
+# Menna Zakaria
+
+### Backend Developer · Full-Stack Builder · Problem Solver
+
+<p>
+  I build reliable APIs, real-time systems, and thoughtful full-stack products with <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, and <strong>React</strong>.
 </p>
 
-- 🔭 I am a Student at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
-
-- 🌱 I’m currently learning **Computer Science**
-  
-- 👨‍💻 I am Back-end devolper (NodeJs)
-
-- 👨‍💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef.**
-
-- 📫 How to reach me **mennazakaria2003@gmail.com**
-
-
-
-
-
-<hr>
-<br>
-
-
-## 👉 How to reach me 
-<p align="center">
-<a href="https://www.linkedin.com/in/menna-zakaria-476220239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/menna-zakaria-476220239/" height="80" width="60"    /      ></a>        <a href="https://www.facebook.com/mennazakaria0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Menna Zakaria" height="80" width="60" />         </a>
-<a href="https://twitter.com/MennaZekooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MennaZekooo" height="80" width="60" /></a>
-<a href="https://www.instagram.com/menna_zakaria1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="menna_zakaria1" height="80" width="60" /     ></a>
-
+<p>
+  <a href="https://portfolio-menna-zakaria.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-b7f26d?style=for-the-badge&labelColor=0b1110" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/menna-zakaria-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1110?style=for-the-badge&logo=linkedin&logoColor=b7f26d" alt="LinkedIn"></a>
+  <a href="mailto:mennazakaria2003@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0b1110?style=for-the-badge&logo=gmail&logoColor=b7f26d" alt="Email"></a>
 </p>
-<hr>
 
-## 👉Competitive Programming Profiles 
-<p align="center">
-<a href="https://www.hackerrank.com/mennazakaria2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mennazakaria" height="80" width="60" />         </a>  
-&emsp; 
-<a href="https://codeforces.com/profile/mennazakaria2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Menna-Zakaria" height="80" width="60" />    </a>
-&emsp; 
- <a href="https://leetcode.com/mennazakaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mennazakaria" height="80" width="60" />   </a>
- &emsp; 
- <a href="https://atcoder.jp/users/menna_zakaria"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=7%/></a>
- &emsp; 
-<a href="https://www.codechef.com/users/mennazakaria"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
-&emsp; 
-<a href="https://www.codingame.com/profile/99eab5b12769f72de7756b9eb5416d011220715" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>	&emsp; 
+</div>
+
+---
+
+## About me
+
+I am a Computer Science graduate from **Suez Canal University**, with a strong focus on backend engineering and a practical interest in full-stack product development. I enjoy designing APIs, structuring data, integrating external services, and building real-time features that make products feel responsive and dependable.
+
+My recent work includes an educational marketplace, a personalized learning platform, and a maternal and newborn care platform. I also built and deployed a bilingual Arabic/English business website as a freelance web developer.
+
+| Focus | What I bring |
+| --- | --- |
+| Backend engineering | REST APIs, authentication, role-based access, integrations, notifications, and scalable server-side structure |
+| Real-time products | Socket.IO communication, live negotiation, chat, typing indicators, and event-driven experiences |
+| Full-stack delivery | React interfaces connected to Node.js services, with attention to usability and product flow |
+| Engineering foundations | OOP, data structures, algorithms, database design, Git, GitHub, and system design |
+
+---
+
+## Featured projects
+
+### ORB · Backend Developer
+
+A real-time educational marketplace connecting students and teachers. I built **20+ APIs** for booking, scheduling, payments, and notifications, and implemented Socket.IO negotiation flows with role-based authentication. ORB won **2nd place** in the Hackathon Sprint at Creativa Innovation Hub, Port Said.
+
+**Stack:** Node.js · Express.js · MongoDB · Socket.IO · EasyKash
+
+[View ORB on GitHub →](https://github.com/MennaAllahZakaria/ORB)
+
+### TrackAdemic · Full-Stack Developer
+
+An educational platform with personalized learning paths, progress tracking, analytics, AI-powered chatbot features, and admin management systems.
+
+**Stack:** React.js · Node.js · Express.js · MongoDB
+
+[Visit the live product →](https://track-ademic-front.vercel.app)
+
+### CareNest · Backend Developer
+
+A graduation project focused on maternal and newborn care. The backend includes authentication, media handling, notifications, baby health tracking, and AI-assisted cry analysis features.
+
+**Stack:** Node.js · Express.js · MongoDB · Cloudinary · Firebase
+
+[View CareNest backend →](https://github.com/Advanced-Infant-Care-Technology/Backend)
+
+---
+
+## Technical toolkit
+
+<div align="center">
+
+### Backend & data
+
+<a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"></a>
+<a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js"></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"></a>
+<a href="https://socket.io/" title="Socket.IO"><img src="https://skillicons.dev/icons?i=socketio" height="48" alt="Socket.IO"></a>
+
+### Frontend & tools
+
+<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"></a>
+
+</div>
+
+---
+
+## More builds
+
+| Project | Type | Highlights |
+| --- | --- | --- |
+| [Learnfinity](https://github.com/MennaAllahZakaria/Learnfinity) | Backend API | Courses, quizzes, enrollments, certificates, live classes, and analytics |
+| [Chat App API](https://github.com/MennaAllahZakaria/chat-app-api) | Backend / Real-time | Chat rooms, private messaging, notifications, chat history, and JWT auth |
+| [Appointment Booking API](https://github.com/MennaAllahZakaria/Appointment-Booking-System-API) | Backend API | Appointments, online payments, SMS notifications, and email alerts |
+| [E-Shop API](https://github.com/MennaAllahZakaria/E-Shop-API) | Backend API | Authentication, products, orders, and core commerce operations |
+| [To-Do App](https://to-do-app-menna.netlify.app/) | Full-stack app | React frontend with Node.js, Express.js, and MongoDB backend |
+| [Weather Dashboard](https://weather-web-site-me.netlify.app/) | Frontend app | OpenWeatherMap integration with worldwide city search |
+
+---
+
+## Competitive programming
+
+I have participated in **ECPC in 2022 and 2023** and continue to practice problem solving through competitive programming platforms.
+
+<p>
+  <a href="https://codeforces.com/profile/mennazakaria2003">Codeforces</a> ·
+  <a href="https://leetcode.com/mennazakaria/">LeetCode</a> ·
+  <a href="https://www.hackerrank.com/mennazakaria2003">HackerRank</a> ·
+  <a href="https://atcoder.jp/users/menna_zakaria">AtCoder</a> ·
+  <a href="https://www.codechef.com/users/mennazakaria">CodeChef</a>
 </p>
-<hr>
 
+---
 
-## 👉 Programming languages
+## GitHub activity
 
-<div align = "center" width = 100%>
-<p align="center">
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60"/> </a>
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a> 
-<a href="https://css.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="100" height="80"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="60" height="60"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg" alt="nodeJs" width="130" height="80"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MennaAllahZakaria&show_icons=true&hide_border=true&theme=transparent&title_color=b7f26d&text_color=9ca8a3&icon_color=b7f26d&bg_color=0b1110" height="165" alt="Menna's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaAllahZakaria&layout=compact&hide_border=true&theme=transparent&title_color=b7f26d&text_color=9ca8a3&bg_color=0b1110" height="165" alt="Menna's top languages">
+</div>
 
+> GitHub language charts are a snapshot of public repositories and should not be treated as a complete measure of experience.
 
- </p>
-<br>
-<hr>
+---
 
+## Let's connect
 
+I am open to backend opportunities, collaborative projects, and conversations about products that need a thoughtful technical foundation.
 
+<div align="center">
 
+**[Portfolio](https://portfolio-menna-zakaria.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/menna-zakaria-) · [GitHub](https://github.com/MennaAllahZakaria) · [Email](mailto:mennazakaria2003@gmail.com)**
 
-🔥 Streak Status
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaAllahZakaria&theme=algolia" alt="MennaAllahZakaria" /></p>
-
-
-
-
-  <summary><b>💻 GitHub Profile Status</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MennaAllahZakaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MennaAllahZakaria&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MennaAllahZakaria&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MennaAllahZakaria" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
-
-  
-<p align="center" class="box" style="text-align:center">
-    <p align="center">Don't forget to give this repo a star <img src="https://media.giphy.com/media/k9F6ZtOTEr4UGmt3H2/giphy.gif" width="40px" alt="star" title="star"><br> Thank you for your attention<br> <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" alt="duck" title="duck" width="300px"></p>
-    
-</p>
+</div>
