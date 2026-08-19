@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <a href="https://portfolio-menna-zakaria.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-b7f26d?style=for-the-badge&labelColor=0b1110" alt="Portfolio"></a>
+  <a href="https://menna-zakaria-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-b7f26d?style=for-the-badge&labelColor=0b1110" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/menna-zakaria-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1110?style=for-the-badge&logo=linkedin&logoColor=b7f26d" alt="LinkedIn"></a>
   <a href="mailto:mennazakaria2003@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0b1110?style=for-the-badge&logo=gmail&logoColor=b7f26d" alt="Email"></a>
 </p>
@@ -130,6 +130,6 @@ I am open to backend opportunities, collaborative projects, and conversations ab
 
 <div align="center">
 
-**[Portfolio](https://portfolio-menna-zakaria.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/menna-zakaria-) · [GitHub](https://github.com/MennaAllahZakaria) · [Email](mailto:mennazakaria2003@gmail.com)**
+**[Portfolio](https://menna-zakaria-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/menna-zakaria-) · [GitHub](https://github.com/MennaAllahZakaria) · [Email](mailto:mennazakaria2003@gmail.com)**
 
 </div>
